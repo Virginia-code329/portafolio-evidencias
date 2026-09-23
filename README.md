@@ -48,7 +48,8 @@ La prueba diagnóstica fue la primera actividad que se realizó en el parcial. E
 
 ## Evidencia
 
-![Prueba diagnóstica](01_Diagnostico/diagnostico.jpg)
+![Prueba diagnóstica](01_Diagnostico/Diagnostico-1.jpeg)
+![Prueba diagnóstica](01_Diagnostico/Diagnostico-2.jpeg)
 
 ## ¿Qué aprendí?
 
@@ -71,15 +72,15 @@ En esta actividad lo que se hizo fue realizar dos programas relacionados a la co
 
 ### Programa para sumar dos números
 
-![Programa IAS - suma](02_Programacion_IAS/suma_IAS.jpg)
+![Programa IAS - suma](02_Programacion_IAS/IAS-1.jpeg)
 
 ### Programa para comparar dos números
 
-![Programa IAS - comparación](02_Programacion_IAS/comparacion_IAS.jpg)
+![Programa IAS - comparación](02_Programacion_IAS/IAS-2.jpeg)
 
 ### Pregunta extra
 
-![Pregunta extra IAS](02_Programacion_IAS/extra_credito_IAS.jpg)
+![Pregunta extra IAS](02_Programacion_IAS/IAS-3.jpeg)
 
 ## ¿Qué aprendí?
 
@@ -101,7 +102,10 @@ Esta actividad consistió en hacer un mapa conceptual sobre las arquitecturas de
 
 ## Evidencia
 
-![Mapa conceptual](03_Mapa_Conceptual/mapa_conceptual.jpg)
+![Mapa conceptual](03_Mapa_Conceptual/Mapa-Conceptual-1.jpeg)
+![Mapa conceptual](03_Mapa_Conceptual/Mapa-Conceptual-2.jpeg)
+![Mapa conceptual](03_Mapa_Conceptual/Mapa-Conceptual-3.jpeg)
+![Mapa conceptual](03_Mapa_Conceptual/Mapa-Conceptual-4.jpeg)
 
 ## ¿Qué aprendí?
 
@@ -127,7 +131,7 @@ Al volver a realizar el circuito y cargar los datos, logramos que este realizara
 
 ## Evidencia
 
-[Ver reporte de la práctica de RAM 6116](04_Memoria_RAM_6116/reporte.pdf)
+[Ver reporte de la práctica de RAM 6116](04_Memoria_RAM_6116/ReporteRAM6116.pdf)
 
 ## ¿Qué aprendí?
 
