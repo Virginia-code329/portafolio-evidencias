@@ -135,7 +135,21 @@ Al volver a realizar el circuito y cargar los datos, logramos que este realizara
 
 ## Evidencia
 
-[Ver reporte de la práctica de RAM 6116](Reporte.pdf)
+![Reporte RAM 6116](Reporte1.jpg)
+
+![Reporte RAM 6116](Reporte2.jpg)
+
+![Reporte RAM 6116](Reporte3.jpg)
+
+![Reporte RAM 6116](Reporte4.jpg)
+
+![Reporte RAM 6116](Reporte5.jpg)
+
+![Reporte RAM 6116](Reporte6.jpg)
+
+![Reporte RAM 6116](Reporte8.jpg)
+
+![Reporte RAM 6116](Reporte9.jpg)
 
 ## ¿Qué aprendí?
 
